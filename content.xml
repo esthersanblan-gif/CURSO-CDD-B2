@@ -1,0 +1,1312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>flux</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260518000938YI83EL</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260518000938K9PMEC</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>PRODUCTO FINAL  CCD B2. </value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Esther Sánchez Blanco</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>flux</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1779050724547</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mp8uecge-0rayagqj6</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Presentación del proyecto</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Presentación del proyecto</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp8uecge-0rayagqj6</odePageId>
+      <odeBlockId>block-1778916104501-ssbx8psfx</odeBlockId>
+      <blockName>LA GEOSFERA. EL PODER DE LA TIERRA</blockName>
+      <iconName>start</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp8uecge-0rayagqj6</odePageId>
+          <odeBlockId>block-1778916104501-ssbx8psfx</odeBlockId>
+          <odeIdeviceId>idevice-1778916104497-0l3cyp7e9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Comenzamos una nueva unidad didáctica en la que vamos a descubrir cómo funciona nuestro planeta y cómo los procesos geológicos influyen directamente en nuestra vida diaria.</p>
+<p>A lo largo de esta unidad aprenderemos qué es la geosfera, cuáles son las capas internas de la Tierra y cómo y por qué tienen lugar fenómenos naturales como los terremotos, los volcanes, la erosión, los deslizamientos de tierra o las inundaciones.</p>
+<p>Analizaremos también los principales riesgos geológicos que afectan a Andalucía y cómo podemos prevenir sus consecuencias.</p>
+<figure class="exe-figure position-center" style="width: 1152px;"><img src="{{context_path}}/content/resources/riesgos_1.png" title="Desastres naturales" width="1152" height="2048" alt="Riesgos geológicos" />
+<figcaption class="figcaption"><a href="https://mx.pinterest.com/pin/987273549579008601/" class="author" target="_blank" rel="noopener">Omar Rivera</a>. <a href="https://mx.pinterest.com/pin/987273549579008601/" class="title" target="_blank" rel="noopener"><em>Riesgos geológicos</em></a> <span class="license"><span class="sep">(</span><span class="custom-license">Dominio público</span><span class="sep">)</span></span></figcaption>
+</figure>
+<p> Durante esta unidad trabajaremos mediante actividades prácticas, investigaciones, trabajo en equipo, simulaciones de laboratorio, cuestionarios digitales y un Breakout EDU donde tendréis que resolver retos relacionados con los contenidos aprendidos. El objetivo será aprender de forma activa, participativa y aplicada a situaciones reales.</p>
+<p>Como producto final, elaboraréis por grupos una infografía digital sobre un riesgo geológico en Andalucía, donde deberéis explicar:</p>
+<ul>
+<li>qué riesgo habéis elegido</li>
+<li>dónde se produce</li>
+<li>Cuáles son sus causas</li>
+<li>qué consecuencias puede tener</li>
+<li>qué medidas preventivas se pueden aplicar<br />Después, presentaréis vuestra infografía mediante una exposición oral al resto de la clase, defendiendo vuestro trabajo y mostrando vuestras conclusiones.</li>
+</ul>
+<p>Para ello utilizaremos herramientas digitales como Canva, Genially, Plickers y otros recursos interactivos que os ayudarán a organizar la información y comunicarla de forma clara y visual. También trabajaremos aspectos importantes como el uso responsable de la tecnología, la protección de datos personales y la seguridad digital.</p>
+<p>En esta unidad no solo aprenderemos contenidos de Biología y Geología, sino que también desarrollaremos competencias como el trabajo cooperativo, la expresión oral, el pensamiento crítico y la resolución de problemas.</p>
+<p>El objetivo final será entender que conocer la Tierra no solo sirve para aprobar una asignatura, sino también para comprender mejor el mundo en el que vivimos y saber cómo actuar ante los riesgos naturales que pueden formar parte de nuestro entorno.</p>
+<p>Comenzamos un viaje al interior de la Tierra para descubrir su fuerza, sus cambios y su enorme poder.<br /> <br /> <br /> <br /> </p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778916104497-0l3cyp7e9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Comenzamos una nueva unidad didáctica en la que vamos a descubrir cómo funciona nuestro planeta y cómo los procesos geológicos influyen directamente en nuestra vida diaria.</p>\n<p>A lo largo de esta unidad aprenderemos qué es la geosfera, cuáles son las capas internas de la Tierra y cómo y por qué tienen lugar fenómenos naturales como los terremotos, los volcanes, la erosión, los deslizamientos de tierra o las inundaciones.</p>\n<p>Analizaremos también los principales riesgos geológicos que afectan a Andalucía y cómo podemos prevenir sus consecuencias.</p>\n<figure class=\"exe-figure position-center\" style=\"width: 1152px;\"><img src=\"{{context_path}}/content/resources/riesgos_1.png\" title=\"Desastres naturales\" width=\"1152\" height=\"2048\" alt=\"Riesgos geológicos\" />\n<figcaption class=\"figcaption\"><a href=\"https://mx.pinterest.com/pin/987273549579008601/\" class=\"author\" target=\"_blank\" rel=\"noopener\">Omar Rivera</a>. <a href=\"https://mx.pinterest.com/pin/987273549579008601/\" class=\"title\" target=\"_blank\" rel=\"noopener\"><em>Riesgos geológicos</em></a> <span class=\"license\"><span class=\"sep\">(</span><span class=\"custom-license\">Dominio público</span><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p> Durante esta unidad trabajaremos mediante actividades prácticas, investigaciones, trabajo en equipo, simulaciones de laboratorio, cuestionarios digitales y un Breakout EDU donde tendréis que resolver retos relacionados con los contenidos aprendidos. El objetivo será aprender de forma activa, participativa y aplicada a situaciones reales.</p>\n<p>Como producto final, elaboraréis por grupos una infografía digital sobre un riesgo geológico en Andalucía, donde deberéis explicar:</p>\n<ul>\n<li>qué riesgo habéis elegido</li>\n<li>dónde se produce</li>\n<li>Cuáles son sus causas</li>\n<li>qué consecuencias puede tener</li>\n<li>qué medidas preventivas se pueden aplicar<br />Después, presentaréis vuestra infografía mediante una exposición oral al resto de la clase, defendiendo vuestro trabajo y mostrando vuestras conclusiones.</li>\n</ul>\n<p>Para ello utilizaremos herramientas digitales como Canva, Genially, Plickers y otros recursos interactivos que os ayudarán a organizar la información y comunicarla de forma clara y visual. También trabajaremos aspectos importantes como el uso responsable de la tecnología, la protección de datos personales y la seguridad digital.</p>\n<p>En esta unidad no solo aprenderemos contenidos de Biología y Geología, sino que también desarrollaremos competencias como el trabajo cooperativo, la expresión oral, el pensamiento crítico y la resolución de problemas.</p>\n<p>El objetivo final será entender que conocer la Tierra no solo sirve para aprobar una asignatura, sino también para comprender mejor el mundo en el que vivimos y saber cómo actuar ante los riesgos naturales que pueden formar parte de nuestro entorno.</p>\n<p>Comenzamos un viaje al interior de la Tierra para descubrir su fuerza, sus cambios y su enorme poder.<br /> <br /> <br /> <br /> </p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp8uecge-0rayagqj6</odePageId>
+      <odeBlockId>block-1778968838780-3t4iay6zz</odeBlockId>
+      <blockName>Características SdA</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp8uecge-0rayagqj6</odePageId>
+          <odeBlockId>block-1778968838780-3t4iay6zz</odeBlockId>
+          <odeIdeviceId>idevice-1778968838777-6ux6ddyrp</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778968838777-6ux6ddyrp" title="" href="{{context_path}}/content/resources/SdA La Geosfera. El poder de la Tierra.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/SdA La Geosfera. El poder de la Tierra.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778968838777-6ux6ddyrp","img_0":{"img":"{{context_path}}/content/resources/SdA La Geosfera. El poder de la Tierra.png","thumbnail":"{{context_path}}/content/resources/SdA La Geosfera. El poder de la Tierra.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779032689996-3jx42myq5</odePageId>
+  <odeParentPageId>page-mp8uecge-0rayagqj6</odeParentPageId>
+  <pageName>Características de la situación de aprendizaje</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Características de la situación de aprendizaje</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779032689996-3jx42myq5</odePageId>
+      <odeBlockId>block-1779053138101-c3jc0uyne</odeBlockId>
+      <blockName>Características de la situación de aprendizaje</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779032689996-3jx42myq5</odePageId>
+          <odeBlockId>block-1779053138101-c3jc0uyne</odeBlockId>
+          <odeIdeviceId>idevice-1779053138099-kobzcbq05</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://canva.link/3wquc6ddm8utlno" title="Situación de aprendizaje">https://canva.link/3wquc6ddm8utlno</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779053138099-kobzcbq05","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://canva.link/3wquc6ddm8utlno\" title=\"Situación de aprendizaje\">https://canva.link/3wquc6ddm8utlno</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp8uecgi-qhpwj1tvv</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Seguridad digital</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Seguridad digital</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Seguridad digital</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp8uecgi-qhpwj1tvv</odePageId>
+      <odeBlockId>block-1778968975586-ayxujmwh4</odeBlockId>
+      <blockName>Utilizamos internet de forma segura y responsable</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp8uecgi-qhpwj1tvv</odePageId>
+          <odeBlockId>block-1778968975586-ayxujmwh4</odeBlockId>
+          <odeIdeviceId>idevice-1778968975582-885bntp0i</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La protección de datos personales y los derechos digitales son fundamentales para utilizar internet de forma segura y responsable.</p>
+<p>Es importante que aprendáis a cuidar vuestra información personal, evitando compartir datos privados como direcciones, teléfonos o contraseñas. También debéis usar redes sociales con responsabilidad, respetando a los demás y pensando antes de publicar cualquier contenido.</p>
+<p>Además, debemos respetar los derechos de autor, utilizando imágenes, vídeos o textos con permiso o con licencias abiertas como Creative Commons, y citando siempre las fuentes.</p>
+<p>Proteger nuestra identidad digital y conocer nuestros derechos en internet nos ayuda a ser ciudadanos digitales responsables, seguros y respetuosos en el entorno digital.</p>
+<p>En la siguiente infografía analizaremos los aspectos más importantes:</p>
+<p><a href="{{context_path}}/content/resources/protección de datos personales y garantías de derechos digitales.pdf" title="protección de datos personales y garantías de derechos digitales.pdf">https://www.canva.com/design/DAHHbrstoKI/u-Ikz0qj1327ZgK6u2CzQw/edit</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778968975582-885bntp0i","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La protección de datos personales y los derechos digitales son fundamentales para utilizar internet de forma segura y responsable.</p>\n<p>Es importante que aprendáis a cuidar vuestra información personal, evitando compartir datos privados como direcciones, teléfonos o contraseñas. También debéis usar redes sociales con responsabilidad, respetando a los demás y pensando antes de publicar cualquier contenido.</p>\n<p>Además, debemos respetar los derechos de autor, utilizando imágenes, vídeos o textos con permiso o con licencias abiertas como Creative Commons, y citando siempre las fuentes.</p>\n<p>Proteger nuestra identidad digital y conocer nuestros derechos en internet nos ayuda a ser ciudadanos digitales responsables, seguros y respetuosos en el entorno digital.</p>\n<p>En la siguiente infografía analizaremos los aspectos más importantes:</p>\n<p><a href=\"{{context_path}}/content/resources/protección de datos personales y garantías de derechos digitales.pdf\" title=\"protección de datos personales y garantías de derechos digitales.pdf\">https://www.canva.com/design/DAHHbrstoKI/u-Ikz0qj1327ZgK6u2CzQw/edit</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp8uecgi-qhpwj1tvv</odePageId>
+      <odeBlockId>block-1778969653031-6wlcjdmok</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp8uecgi-qhpwj1tvv</odePageId>
+          <odeBlockId>block-1778969653031-6wlcjdmok</odeBlockId>
+          <odeIdeviceId>idevice-1778969653028-h4mc3kvhx</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778969653028-h4mc3kvhx" title="" href="{{context_path}}/content/resources/protección de datos personales y garantías de derechos digitales.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/protección de datos personales y garantías de derechos digitales.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778969653028-h4mc3kvhx","img_0":{"img":"{{context_path}}/content/resources/protección de datos personales y garantías de derechos digitales.jpg","thumbnail":"{{context_path}}/content/resources/protección de datos personales y garantías de derechos digitales.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp8uecgi-n4iwxtoxe</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Producto final del alumnado</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final del alumnado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Producto final del alumnado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp8uecgi-n4iwxtoxe</odePageId>
+      <odeBlockId>block-1779010562485-i79wixzfg</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp8uecgi-n4iwxtoxe</odePageId>
+          <odeBlockId>block-1779010562485-i79wixzfg</odeBlockId>
+          <odeIdeviceId>idevice-1779010562477-370lztr0g</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Varias sesiones de esta unidad se dedicarán a la elaboración del producto final: elaboración de una infografía interactiva sobre riesgos geológicos en Andalucía y su posterior exposición oral en grupo.</p>
+<p>El objetivo de esta actividad es que seáis capaces de aplicar todo lo aprendido sobre la geosfera, los riesgos geológicos y las medidas de prevención, relacionándolo con situaciones reales de nuestro entorno.</p>
+<p>¿Qué tendréis que hacer?<br />Por grupos, deberéis elegir un riesgo geológico que afecte a Andalucía, de entre los recogidos en el siguiente esquema, elaborado para la presentación en clase.</p>
+<figure class="exe-figure position-center" style="width: 762px;"><img src="{{context_path}}/content/resources/Captura de pantalla 2026-05-17 114810_1.png" title="Riesgos endógenos y exógenos" width="762" height="426" alt="Tipos de riesgos geológicos" />
+<figcaption class="figcaption"><span class="author">Elaboración propia</span>. <span class="title"><em>Esquema de riesgos naturales</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" class="license" target="_blank" rel="noopener">CC0</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p>Una vez elegido, tendréis que investigar y elaborar una infografía digital donde expliquéis:</p>
+<p>¿Qué es ese riesgo geológico? ¿Dónde se produce en Andalucía?<br />- Causas<br />- Consecuencias.<br />- Medidas preventivas.<br />-Imágenes, mapas o elementos visuales que ayuden a comprender mejor la información<br /></p>
+<p>La infografía debe ser clara, visual, bien organizada y fácil de entender.</p>
+<p><strong>Herramientas digitales</strong><br />En esta ocasión utilizaremos Genially. En un mapa de Andalucía, cada grupo añadirá de forma interactiva la localización del riesgo geológico que está estudiando. Dentro de cada uno de ellos podrá usar y vincular al Genially otras aplicaciones para incluir videos, imágenes, esquemas o diagramas de flujo, audios, etc. Entre estas herramientas digitales asociadas podrían estar: Canva, Audacity, CapCut, etc.<br /></p>
+<p>El objetivo no es solo que tenga un buen diseño, sino que la información sea correcta, útil y bien explicada.</p>
+<p><strong>Exposición oral</strong><br />Después, cada grupo presentará su infografía al resto de la clase mediante una exposición oral y posterior debate grupal.</p>
+<p><strong>Durante la exposición deberéis:</strong></p>
+<p>- explicar vuestro trabajo con claridad<br />- utilizar vocabulario científico adecuado<br />- justificar las medidas preventivas propuestas<br />- participar todos los miembros del grupo<br />- responder posibles preguntas del profesorado o de los compañeros<br /><strong>¿Qué se valorará?</strong><br />Se tendrá en cuenta:</p>
+<p>- la calidad de la información<br />- la correcta identificación del riesgo geológico<br />- la explicación de causas y consecuencias<br />- las medidas preventivas propuestas<br />- la organización visual de la infografía<br />- la exposición oral<br />- el trabajo en equipo<br />- la participación de todos los integrantes</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779010562477-370lztr0g","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Varias sesiones de esta unidad se dedicarán a la elaboración del producto final: elaboración de una infografía interactiva sobre riesgos geológicos en Andalucía y su posterior exposición oral en grupo.</p>\n<p>El objetivo de esta actividad es que seáis capaces de aplicar todo lo aprendido sobre la geosfera, los riesgos geológicos y las medidas de prevención, relacionándolo con situaciones reales de nuestro entorno.</p>\n<p>¿Qué tendréis que hacer?<br />Por grupos, deberéis elegir un riesgo geológico que afecte a Andalucía, de entre los recogidos en el siguiente esquema, elaborado para la presentación en clase.</p>\n<figure class=\"exe-figure position-center\" style=\"width: 762px;\"><img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-05-17 114810_1.png\" title=\"Riesgos endógenos y exógenos\" width=\"762\" height=\"426\" alt=\"Tipos de riesgos geológicos\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Elaboración propia</span>. <span class=\"title\"><em>Esquema de riesgos naturales</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.en\" class=\"license\" target=\"_blank\" rel=\"noopener\">CC0</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p>Una vez elegido, tendréis que investigar y elaborar una infografía digital donde expliquéis:</p>\n<p>¿Qué es ese riesgo geológico? ¿Dónde se produce en Andalucía?<br />- Causas<br />- Consecuencias.<br />- Medidas preventivas.<br />-Imágenes, mapas o elementos visuales que ayuden a comprender mejor la información<br /></p>\n<p>La infografía debe ser clara, visual, bien organizada y fácil de entender.</p>\n<p><strong>Herramientas digitales</strong><br />En esta ocasión utilizaremos Genially. En un mapa de Andalucía, cada grupo añadirá de forma interactiva la localización del riesgo geológico que está estudiando. Dentro de cada uno de ellos podrá usar y vincular al Genially otras aplicaciones para incluir videos, imágenes, esquemas o diagramas de flujo, audios, etc. Entre estas herramientas digitales asociadas podrían estar: Canva, Audacity, CapCut, etc.<br /></p>\n<p>El objetivo no es solo que tenga un buen diseño, sino que la información sea correcta, útil y bien explicada.</p>\n<p><strong>Exposición oral</strong><br />Después, cada grupo presentará su infografía al resto de la clase mediante una exposición oral y posterior debate grupal.</p>\n<p><strong>Durante la exposición deberéis:</strong></p>\n<p>- explicar vuestro trabajo con claridad<br />- utilizar vocabulario científico adecuado<br />- justificar las medidas preventivas propuestas<br />- participar todos los miembros del grupo<br />- responder posibles preguntas del profesorado o de los compañeros<br /><strong>¿Qué se valorará?</strong><br />Se tendrá en cuenta:</p>\n<p>- la calidad de la información<br />- la correcta identificación del riesgo geológico<br />- la explicación de causas y consecuencias<br />- las medidas preventivas propuestas<br />- la organización visual de la infografía<br />- la exposición oral<br />- el trabajo en equipo<br />- la participación de todos los integrantes</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp8uecgj-ik4my0aoh</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Curación de contenidos</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Curación de contenidos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Curación de contenidos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp8uecgj-ik4my0aoh</odePageId>
+      <odeBlockId>block-1778969986631-8m9t4hwqw</odeBlockId>
+      <blockName>Recursos digitales de apoyo para la elaboración del producto final</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp8uecgj-ik4my0aoh</odePageId>
+          <odeBlockId>block-1778969986631-8m9t4hwqw</odeBlockId>
+          <odeIdeviceId>idevice-1778969986628-8gzbqdzzd</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Padlet de apoyo para el producto final</strong><br />Además de la información que iremos presentando en clase, en esta sección encontraréis un Padlet en el que se van a ir añadiendo recursos digitales seleccionados para ayudaros en la elaboración de vuestro producto final: la infografía y la exposición oral sobre los riesgos geológicos en Andalucía.</p>
+<p>Este espacio de curación de contenidos reúne información útil, fiable y adaptada a vuestro nivel para que podáis investigar de forma segura y organizada.</p>
+<ul>
+<li><br />Todos estos materiales os ayudarán a comprender mejor los contenidos de la unidad y a preparar una infografía más completa y bien fundamentada.</li>
+</ul>
+<p> <br /> <a href="https://padlet.com/esanchezori/informacion-para-proyecto-final-wskcwy9q7xcpepji" title="">https://padlet.com/esanchezori/informacion-para-proyecto-final-wskcwy9q7xcpepji</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778969986628-8gzbqdzzd","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Padlet de apoyo para el producto final</strong><br />Además de la información que iremos presentando en clase, en esta sección encontraréis un Padlet en el que se van a ir añadiendo recursos digitales seleccionados para ayudaros en la elaboración de vuestro producto final: la infografía y la exposición oral sobre los riesgos geológicos en Andalucía.</p>\n<p>Este espacio de curación de contenidos reúne información útil, fiable y adaptada a vuestro nivel para que podáis investigar de forma segura y organizada.</p>\n<ul>\n<li><br />Todos estos materiales os ayudarán a comprender mejor los contenidos de la unidad y a preparar una infografía más completa y bien fundamentada.</li>\n</ul>\n<p> <br /> <a href=\"https://padlet.com/esanchezori/informacion-para-proyecto-final-wskcwy9q7xcpepji\" title=\"\">https://padlet.com/esanchezori/informacion-para-proyecto-final-wskcwy9q7xcpepji</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779040728107-ins6eoeaw</odePageId>
+  <odeParentPageId>page-mp8uecgj-ik4my0aoh</odeParentPageId>
+  <pageName>Alumnado</pageName>
+  <odeNavStructureOrder>12</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Alumnado</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779040728107-ins6eoeaw</odePageId>
+      <odeBlockId>block-1779040758277-6h8xcidgf</odeBlockId>
+      <blockName>Recursos digitales para la Situación de aprendizaje</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779040728107-ins6eoeaw</odePageId>
+          <odeBlockId>block-1779040758277-6h8xcidgf</odeBlockId>
+          <odeIdeviceId>idevice-1779040758275-9r21249h5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Padlet de apoyo para el producto final<br />Además de la información que iremos presentando en clase, en esta sección encontraréis un Padlet en el que se van a ir añadiendo recursos digitales seleccionados para ayudaros en la elaboración de vuestro producto final: la infografía y la exposición oral sobre los riesgos geológicos en Andalucía.</p>
+<p>Este espacio de curación de contenidos reúne información útil, fiable y adaptada a vuestro nivel para que podáis investigar de forma segura y organizada.</p>
+<p><br title="Información relevante para la Situación de Aprendizaje" />Todos estos materiales os ayudarán a comprender mejor los contenidos de la unidad y a preparar una infografía más completa y bien fundamentada.<br /> <br /><a href="https://padlet.com/esanchezori/informacion-para-proyecto-final-wskcwy9q7xcpepji" title="Información relevante para la Situación de Aprendizaje">Padlet curación de contenidos</a><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779040758275-9r21249h5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Padlet de apoyo para el producto final<br />Además de la información que iremos presentando en clase, en esta sección encontraréis un Padlet en el que se van a ir añadiendo recursos digitales seleccionados para ayudaros en la elaboración de vuestro producto final: la infografía y la exposición oral sobre los riesgos geológicos en Andalucía.</p>\n<p>Este espacio de curación de contenidos reúne información útil, fiable y adaptada a vuestro nivel para que podáis investigar de forma segura y organizada.</p>\n<p><br title=\"Información relevante para la Situación de Aprendizaje\" />Todos estos materiales os ayudarán a comprender mejor los contenidos de la unidad y a preparar una infografía más completa y bien fundamentada.<br /> <br /><a href=\"https://padlet.com/esanchezori/informacion-para-proyecto-final-wskcwy9q7xcpepji\" title=\"Información relevante para la Situación de Aprendizaje\">Padlet curación de contenidos</a><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779040975856-y5lskbus7</odePageId>
+  <odeParentPageId>page-mp8uecgj-ik4my0aoh</odeParentPageId>
+  <pageName>Profesorado</pageName>
+  <odeNavStructureOrder>13</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Profesorado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Profesorado</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779040975856-y5lskbus7</odePageId>
+      <odeBlockId>block-1779041052281-5oogw6jy9</odeBlockId>
+      <blockName>Symbaloo Aplicaciones y enlaces de interés</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779040975856-y5lskbus7</odePageId>
+          <odeBlockId>block-1779041052281-5oogw6jy9</odeBlockId>
+          <odeIdeviceId>idevice-1779041052277-kzwclwfqy</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En el siguiente enlace podéis acceder a mi Symbaloo, donde se recogen las aplicaciones y enlaces de uso frecuente.</p>
+<p><a href="https://www.symbaloo.com/home/mix/13ePQRLiSJ" title="">Symbaloo Aplicaciones</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779041052277-kzwclwfqy","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En el siguiente enlace podéis acceder a mi Symbaloo, donde se recogen las aplicaciones y enlaces de uso frecuente.</p>\n<p><a href=\"https://www.symbaloo.com/home/mix/13ePQRLiSJ\" title=\"\">Symbaloo Aplicaciones</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp8uecgj-pi91vfv18</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Línea temporal</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp8uecgj-pi91vfv18</odePageId>
+      <odeBlockId>block-1778972806059-s13xvie9m</odeBlockId>
+      <blockName>HOJA DE RUTA DE LA SITUACIÓN DE APRENDIZAJE</blockName>
+      <iconName>sport</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp8uecgj-pi91vfv18</odePageId>
+          <odeBlockId>block-1778972806059-s13xvie9m</odeBlockId>
+          <odeIdeviceId>idevice-1778972806057-5mmt2h165</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1778972806057-5mmt2h165" title="" href="{{context_path}}/content/resources/hoja de ruta.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/hoja de ruta.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778972806057-5mmt2h165","img_0":{"img":"{{context_path}}/content/resources/hoja de ruta.jpg","thumbnail":"{{context_path}}/content/resources/hoja de ruta.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp8uecgj-5gptzmjw8</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Tareas + criterios de evaluación</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tareas + criterios de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Tareas + criterios de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp8uecgj-5gptzmjw8</odePageId>
+      <odeBlockId>block-1779012569740-izcal03ac</odeBlockId>
+      <blockName>Asociamos tareas a los criterios de evaluación</blockName>
+      <iconName>piece</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp8uecgj-5gptzmjw8</odePageId>
+          <odeBlockId>block-1779012569740-izcal03ac</odeBlockId>
+          <odeIdeviceId>idevice-1779012569737-0hfd01r32</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En la siguiente tabla se relacionan las tareas/actividades que se llevarán a cabo durante la situación de aprendizaje con los criterios de evaluación asociados a cada una de ellas. </p>
+<p>Se indica también donde se llevarán a cabo y agrupamientos.</p>
+<p><a href="{{context_path}}/content/resources/Asociamos tareas a Criterios de evaluación_.pdf" title="Asociamos tareas a Criterios de evaluación_.pdf">Relación tareas-criterios de evaluación</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779012569737-0hfd01r32","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En la siguiente tabla se relacionan las tareas/actividades que se llevarán a cabo durante la situación de aprendizaje con los criterios de evaluación asociados a cada una de ellas. </p>\n<p>Se indica también donde se llevarán a cabo y agrupamientos.</p>\n<p><a href=\"{{context_path}}/content/resources/Asociamos tareas a Criterios de evaluación_.pdf\" title=\"Asociamos tareas a Criterios de evaluación_.pdf\">Relación tareas-criterios de evaluación</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp8uecgj-1ala1nyq8</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Instrumentos de evaluación</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp8uecgj-1ala1nyq8</odePageId>
+      <odeBlockId>block-1779013300127-omhqpem3v</odeBlockId>
+      <blockName>Técnicas e instrumentos de evaluación</blockName>
+      <iconName>diary_alt</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp8uecgj-1ala1nyq8</odePageId>
+          <odeBlockId>block-1779013300127-omhqpem3v</odeBlockId>
+          <odeIdeviceId>idevice-1779013300123-354sh4dcg</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>La evaluación de la Situación de aprendizaje se llevará a cabo a través de distintas técnicas (Observación sistemática, análisis de los productos elaborados por el alumnado y Pruebas específicas objetivas). Cada una de las tareas lleva asociado uno o varios criterios de evaluación, cuya consecución serán medidos con distintos instrumentos de evaluación que se recogen en el siguiente documento:</p>
+<p><a href="https://docs.google.com/document/d/14YNNKBSu9305Mf0wvzRBCAUh2ws9UKTSuqkXBpq1Sqg/edit?usp=sharing" title="Instrumentos de evaluación ">https://docs.google.com/document/d/14YNNKBSu9305Mf0wvzRBCAUh2ws9UKTSuqkXBpq1Sqg/edit?usp=sharing</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779013300123-354sh4dcg","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>La evaluación de la Situación de aprendizaje se llevará a cabo a través de distintas técnicas (Observación sistemática, análisis de los productos elaborados por el alumnado y Pruebas específicas objetivas). Cada una de las tareas lleva asociado uno o varios criterios de evaluación, cuya consecución serán medidos con distintos instrumentos de evaluación que se recogen en el siguiente documento:</p>\n<p><a href=\"https://docs.google.com/document/d/14YNNKBSu9305Mf0wvzRBCAUh2ws9UKTSuqkXBpq1Sqg/edit?usp=sharing\" title=\"Instrumentos de evaluación \">https://docs.google.com/document/d/14YNNKBSu9305Mf0wvzRBCAUh2ws9UKTSuqkXBpq1Sqg/edit?usp=sharing</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779038937292-i22854dqj</odePageId>
+  <odeParentPageId>page-mp8uecgj-1ala1nyq8</odeParentPageId>
+  <pageName>Lista de cotejo</pageName>
+  <odeNavStructureOrder>10</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Lista de cotejo</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779038937292-i22854dqj</odePageId>
+      <odeBlockId>block-1779039381993-65xpv1jy4</odeBlockId>
+      <blockName>Lista de cotejo</blockName>
+      <iconName>arts</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779038937292-i22854dqj</odePageId>
+          <odeBlockId>block-1779039381993-65xpv1jy4</odeBlockId>
+          <odeIdeviceId>idevice-1779039381980-054n7u8e7</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1779039381980-054n7u8e7" title="Lista de Cotejo para Breakout Educativo" href="{{context_path}}/content/resources/LISTA COTEJO. BREAKOUT EDU RIESGOS GEOLÓGICOS.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/LISTA COTEJO. BREAKOUT EDU RIESGOS GEOLÓGICOS.png" height="128" width="128" title="Lista de Cotejo para Breakout Educativo" alt="Lista de Cotejo para Breakout Educativo" titlelink="Evaluación actividad 4" author="ESther Sánchez" authorlink="https://www.canva.com/design/DAHJwETL7jA/TqO5c-dgSp7l_YK1EVc4jA/edit" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779039381980-054n7u8e7","img_0":{"img":"{{context_path}}/content/resources/LISTA COTEJO. BREAKOUT EDU RIESGOS GEOLÓGICOS.png","thumbnail":"{{context_path}}/content/resources/LISTA COTEJO. BREAKOUT EDU RIESGOS GEOLÓGICOS.png","title":"Lista de Cotejo para Breakout Educativo","linktitle":"Evaluación actividad 4","author":"ESther Sánchez","linkauthor":"https://www.canva.com/design/DAHJwETL7jA/TqO5c-dgSp7l_YK1EVc4jA/edit","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1779038960817-rb4xk75jf</odePageId>
+  <odeParentPageId>page-mp8uecgj-1ala1nyq8</odeParentPageId>
+  <pageName>Rúbrica del producto final</pageName>
+  <odeNavStructureOrder>11</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Rúbrica del producto final</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1779038960817-rb4xk75jf</odePageId>
+      <odeBlockId>block-1779039569439-fxpr9lqto</odeBlockId>
+      <blockName>Rúbrica producto final</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1779038960817-rb4xk75jf</odePageId>
+          <odeBlockId>block-1779039569439-fxpr9lqto</odeBlockId>
+          <odeIdeviceId>idevice-1779039569438-xt7jsw585</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1779039569438-xt7jsw585" title="Rúbrica Producto final" href="{{context_path}}/content/resources/mceclip2.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/mceclip2.png" height="128" width="128" title="Rúbrica Producto final" alt="Rúbrica Producto final" titlelink="Rúbrica " author="Esther Sánchez " authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779039569438-xt7jsw585","img_0":{"img":"{{context_path}}/content/resources/mceclip2.png","thumbnail":"{{context_path}}/content/resources/mceclip2.png","title":"Rúbrica Producto final","linktitle":"Rúbrica ","author":"Esther Sánchez ","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp8uecgj-lgfe59mag</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp8uecgj-lgfe59mag</odePageId>
+      <odeBlockId>block-1779044158422-cx46sjpax</odeBlockId>
+      <blockName>Guía didáctica</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp8uecgj-lgfe59mag</odePageId>
+          <odeBlockId>block-1779044158422-cx46sjpax</odeBlockId>
+          <odeIdeviceId>idevice-1779044158417-xlhjf2gvx</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En el siguiente archivo, de elaboración propia, se relaciona las tareas del proyecto con los criterios de evaluación, las competencias específicas y los saberes básicos. </p>
+<p>Se incluye también aspectos de atención a la diversidad y las consideraciones tenidas en cuenta para garantizar durante el diseño de la situación de aprendizaje el cumplimiento de pautas del Diseño Universal de Aprendizaje.</p>
+<p><a href="https://drive.google.com/file/d/12MQZl7WUefveoG2lwDswO75LUb_q9QAo/view?usp=drive_link" title="Guía didáctica">https://drive.google.com/file/d/12MQZl7WUefveoG2lwDswO75LUb_q9QAo/view?usp=drive_link</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779044158417-xlhjf2gvx","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En el siguiente archivo, de elaboración propia, se relaciona las tareas del proyecto con los criterios de evaluación, las competencias específicas y los saberes básicos. </p>\n<p>Se incluye también aspectos de atención a la diversidad y las consideraciones tenidas en cuenta para garantizar durante el diseño de la situación de aprendizaje el cumplimiento de pautas del Diseño Universal de Aprendizaje.</p>\n<p><a href=\"https://drive.google.com/file/d/12MQZl7WUefveoG2lwDswO75LUb_q9QAo/view?usp=drive_link\" title=\"Guía didáctica\">https://drive.google.com/file/d/12MQZl7WUefveoG2lwDswO75LUb_q9QAo/view?usp=drive_link</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp8uecgj-tf983d44c</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos finales</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos finales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos finales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp8uecgj-tf983d44c</odePageId>
+      <odeBlockId>block-1779013843010-mwdp15n6u</odeBlockId>
+      <blockName>Créditos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp8uecgj-tf983d44c</odePageId>
+          <odeBlockId>block-1779013843010-mwdp15n6u</odeBlockId>
+          <odeIdeviceId>idevice-1779013843005-pu7xin1ih</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><br /></p>
+<p><img src="{{context_path}}/content/resources/mceclip3.png" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779013843005-pu7xin1ih","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><br /></p>\n<p><img src=\"{{context_path}}/content/resources/mceclip3.png\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
